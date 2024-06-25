@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/HP/IdeaProjects/ATB6xRestAssuredLearning"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.673">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getRequestBDDStyle2"
+                time="0.711"
+                classname="org.example.ex_ra01.CRUD.GET.BDDStyle.Lab111">
+            </testcase>
+            <testcase
+                name="getRequestBDDStyle"
+                time="0.962"
+                classname="org.example.ex_ra01.CRUD.GET.BDDStyle.Lab111">
+            </testcase>
+</testsuite>

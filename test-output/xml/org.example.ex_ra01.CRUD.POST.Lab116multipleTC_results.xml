@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/HP/IdeaProjects/ATB6xRestAssuredLearning"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.716">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testBDDStylePOSTPositive"
+                time="1.360"
+                classname="org.example.ex_ra01.CRUD.POST.Lab116multipleTC">
+            </testcase>
+            <testcase
+                name="testBDDStylePOSTNegative"
+                time="1.356"
+                classname="org.example.ex_ra01.CRUD.POST.Lab116multipleTC">
+            </testcase>
+</testsuite>
