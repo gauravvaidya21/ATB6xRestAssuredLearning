@@ -1,0 +1,1 @@
+{"uuid":"0728f395-c6d0-469c-a00c-0aa80b7f069d","name":"Restful API testing Test Suite","children":["f3147413-503b-48cc-93a3-bd38ffa1ee60"],"befores":[],"afters":[{"name":"emailToQALead","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1719420801493,"stop":1719420801495}],"start":1719420801224,"stop":1719420801497}
